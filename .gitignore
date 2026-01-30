@@ -34,3 +34,12 @@ Thumbs.db
 # Initial Files
 # -----------------------------
 Initial case files/
+# mac system files
+.DS_Store
+
+# raw datasets (never commit)
+data/Raw/
+data/raw/
+
+# large CSVs
+*.csv
