@@ -1,0 +1,874 @@
+city,state,total_e2w_ev
+Bangalore,Ka:Karnataka,189956
+Pune,Mh:Maharashtra,121012
+Jaipur,Rj:Rajasthan,70162
+Surat,Gj:Gujarat,68699
+Pimpri Chinchwad,Mh:Maharashtra,63271
+Nagpur,Mh:Maharashtra,59155
+Ahmedabad,Gj:Gujarat,56721
+Indore ,Mp:Madhya Pradesh,45227
+Madurai,Tn:Tamil Nadu,42019
+Kolhapur,Mh:Maharashtra,38301
+Lucknow,Up:Uttar Pradesh,37574
+Nashik,Mh:Maharashtra,36947
+Raipur,Cg:Chattisgarh,36834
+Chennakeshavanagar,Ka:Karnataka,33207
+Nagapattinam,Tn:Tamil Nadu,31975
+Koramangala,Ka:Karnataka,29335
+Mysuru,Ka:Karnataka,28217
+Coimbatore,Tn:Tamil Nadu,27710
+Aurangabad,Mh:Maharashtra,27289
+Agra,Up:Uttar Pradesh,27098
+Bhopal ,Mp:Madhya Pradesh,25067
+Mumbai,Mh:Maharashtra,24899
+Vadodara,Gj:Gujarat,24608
+Sangli,Mh:Maharashtra,23622
+Jodhpur,Rj:Rajasthan,23230
+Gwalior ,Mp:Madhya Pradesh,22425
+Ahmednagar,Mh:Maharashtra,22242
+Yelahanka,Ka:Karnataka,21884
+Solapur,Mh:Maharashtra,21094
+K R Puram,Ka:Karnataka,20821
+Rohini,Dl:Delhi,20355
+Chennai,Tn:Tamil Nadu,20148
+Amravati,Mh:Maharashtra,20027
+Belgaum,Ka:Karnataka,19623
+Patna,Br:Bihar,19608
+Porbandar Highway,Gj:Gujarat,19161
+ Vishakapatnam,Ap:Andhra Pradesh,18704
+Jabalpur ,Mp:Madhya Pradesh,18622
+Varanasi,Up:Uttar Pradesh,18319
+Tirupur,Tn:Tamil Nadu,18102
+Periyakulam,Tn:Tamil Nadu,17153
+Dy  Vasai Virar,Mh:Maharashtra,16994
+Ariyalur,Tn:Tamil Nadu,16677
+Ludhiana,Pb:Punjab,16093
+Durg,Cg:Chattisgarh,15818
+Ajmer,Rj:Rajasthan,15771
+Shrirampur,Mh:Maharashtra,14720
+Udaipur,Rj:Rajasthan,14669
+Thiruvananthapuram,Kl:Kerala,14150
+Kota,Rj:Rajasthan,13454
+Meerut,Up:Uttar Pradesh,13436
+Tumkur,Ka:Karnataka,12991
+Kalyan,Mh:Maharashtra,12838
+Jalgaon,Mh:Maharashtra,12669
+Ranchi,Jh:Jharkhand,12665
+Mangalore,Ka:Karnataka,12206
+Bikaner,Rj:Rajasthan,12144
+Alwar,Rj:Rajasthan,12058
+Hassan,Ka:Karnataka,11907
+Malegaon,Mh:Maharashtra,11765
+Bilashpur,Cg:Chattisgarh,11561
+Satara,Mh:Maharashtra,11534
+Sivagangai,Tn:Tamil Nadu,11501
+Gautambudhnagar,Up:Uttar Pradesh,11489
+Bhilwara,Rj:Rajasthan,11441
+Mandya,Ka:Karnataka,11402
+Dindigul,Tn:Tamil Nadu,11031
+Nanded,Mh:Maharashtra,10969
+Thane,Mh:Maharashtra,10955
+Panvel,Mh:Maharashtra,10859
+Kanpur Nagar,Up:Uttar Pradesh,10847
+Surajmahalvihar,Dl:Delhi,10754
+ Vijayawada,Ap:Andhra Pradesh,10663
+Allahabad,Up:Uttar Pradesh,10659
+Baramati,Mh:Maharashtra,10629
+Ghaziabad,Up:Uttar Pradesh,10509
+Saharanpur,Up:Uttar Pradesh,10294
+Ujjain ,Mp:Madhya Pradesh,10253
+Kozhikode,Kl:Kerala,10220
+Latur,Mh:Maharashtra,9785
+Davanagere,Ka:Karnataka,9726
+Hosur,Tn:Tamil Nadu,9403
+Gorakhpur,Up:Uttar Pradesh,9325
+Borivali,Mh:Maharashtra,9094
+Jamnagar,Gj:Gujarat,9074
+Erode,Tn:Tamil Nadu,9034
+Udupi,Ka:Karnataka,8915
+Sikar,Rj:Rajasthan,8863
+Ernakulam,Kl:Kerala,8731
+ Godavari Kakinada,Ap:Andhra Pradesh,8686
+Anand,Gj:Gujarat,8585
+Shimoga,Ka:Karnataka,8571
+Jalna,Mh:Maharashtra,8433
+Ambikapur,Cg:Chattisgarh,8283
+Sangagiri,Tn:Tamil Nadu,8221
+Amritsar,Pb:Punjab,8162
+Thrissur,Kl:Kerala,8093
+Chhindwara,Mp:Madhya Pradesh,8062
+Mapusa,Ga:Goa,7765
+Yawatmal,Mh:Maharashtra,7672
+Jamshedpur,Jh:Jharkhand,7619
+Dhule,Mh:Maharashtra,7490
+Jhansi,Up:Uttar Pradesh,7437
+Wardha,Mh:Maharashtra,7388
+Rajouri Garden,Dl:Delhi,7282
+Gulbarga,Ka:Karnataka,7269
+Valsad,Gj:Gujarat,7243
+ Guntur,Ap:Andhra Pradesh,7221
+Palavasana,Gj:Gujarat,7139
+Navsari,Gj:Gujarat,7010
+Vellore,Tn:Tamil Nadu,6904
+Mathura,Up:Uttar Pradesh,6902
+Salem,Tn:Tamil Nadu,6816
+Bijapur,Ka:Karnataka,6799
+Akola,Mh:Maharashtra,6742
+Beed,Mh:Maharashtra,6741
+Dharwad,Ka:Karnataka,6712
+Jhunjhunu,Rj:Rajasthan,6631
+Tirur,Kl:Kerala,6548
+Chittorgarh,Rj:Rajasthan,6529
+Margao,Ga:Goa,6481
+Chandigarh,Ch:Chandigarh,6450
+Gaya,Br:Bihar,6427
+Kollam,Kl:Kerala,6409
+ Nellore,Ap:Andhra Pradesh,6393
+Aligarh,Up:Uttar Pradesh,6371
+Krishnagiri,Tn:Tamil Nadu,6288
+Pen,Mh:Maharashtra,6257
+Raigarh,Cg:Chattisgarh,6166
+ Vizianagaram,Ap:Andhra Pradesh,6143
+Akluj,Mh:Maharashtra,6086
+Thirurangadi,Kl:Kerala,5967
+ Srikakulam,Ap:Andhra Pradesh,5956
+Gondia,Mh:Maharashtra,5943
+Gandhinagar,Gj:Gujarat,5938
+Hoshangabad ,Mp:Madhya Pradesh,5928
+Banaskantha,Gj:Gujarat,5830
+Gurgaon,Hr:Haryana,5794
+Bellary,Ka:Karnataka,5740
+Tiptur,Ka:Karnataka,5730
+ Girsomnath,Gj:Gujarat,5730
+Nedumangad,Kl:Kerala,5687
+Ramanagara,Ka:Karnataka,5679
+Kolar,Ka:Karnataka,5667
+Chitradurga,Ka:Karnataka,5658
+Marthandam,Tn:Tamil Nadu,5657
+Meenambakkam,Tn:Tamil Nadu,5566
+ Kurnool,Ap:Andhra Pradesh,5510
+Sagar ,Mp:Madhya Pradesh,5503
+Muzaffarpur,Br:Bihar,5502
+Rajnandgaon,Cg:Chattisgarh,5443
+Muzaffarnagar,Up:Uttar Pradesh,5432
+Haridwar,Uk:Uttarakhand,5411
+Tiruvanamalai,Tn:Tamil Nadu,5386
+Alappuzha,Kl:Kerala,5384
+Karad,Mh:Maharashtra,5382
+Chandrapur,Mh:Maharashtra,5322
+Pali,Rj:Rajasthan,5296
+Bhuj Kachchh,Gj:Gujarat,5284
+Bhavnagar,Gj:Gujarat,5269
+Raichur,Ka:Karnataka,5232
+Dharmapuri,Tn:Tamil Nadu,5226
+Paravoor,Kl:Kerala,5222
+Jammu,Jk:Jammund Kashmir,5214
+Vidisha ,Mp:Madhya Pradesh,5189
+Sri Ganganagar,Rj:Rajasthan,5149
+Namakkal,Tn:Tamil Nadu,5096
+Cherthala,Kl:Kerala,5085
+Kamrup,As:Assam,5084
+Vasant Vihar,Dl:Delhi,5054
+Guna,Mp:Madhya Pradesh,5010
+Oulgaret,Py:Pondicherry,5007
+Perundurai,Tn:Tamil Nadu,5003
+Jalandhar,Pb:Punjab,4989
+Nelamangala,Ka:Karnataka,4969
+Vashi,Mh:Maharashtra,4893
+Ratnagiri,Mh:Maharashtra,4874
+Kannur,Kl:Kerala,4873
+Koduvally,Kl:Kerala,4871
+Malappuram,Kl:Kerala,4859
+Parbhani,Mh:Maharashtra,4846
+Redhills,Tn:Tamil Nadu,4792
+Ratlam ,Mp:Madhya Pradesh,4763
+Bareilly,Up:Uttar Pradesh,4744
+Bhandara,Mh:Maharashtra,4696
+Sindhudurg,Mh:Maharashtra,4642
+Mandsaur,Mp:Madhya Pradesh,4598
+Tonk,Rj:Rajasthan,4528
+Bulandshahar,Up:Uttar Pradesh,4526
+Aluva,Kl:Kerala,4435
+Nagaur,Rj:Rajasthan,4435
+Neyyattinkara,Kl:Kerala,4416
+Tanjavur,Tn:Tamil Nadu,4386
+Tiruchirappalli,Tn:Tamil Nadu,4372
+Chikkaballapura,Ka:Karnataka,4371
+Bicholim,Ga:Goa,4366
+Tuticorin,Tn:Tamil Nadu,4350
+Korba,Cg:Chattisgarh,4330
+nantapur,Ap:Andhra Pradesh,4303
+Palakkad,Kl:Kerala,4289
+ Chittoor,Ap:Andhra Pradesh,4255
+Iranjalakkuda,Kl:Kerala,4212
+Kazhakuttom,Kl:Kerala,4200
+Narsinghpur ,Mp:Madhya Pradesh,4192
+Dewas ,Mp:Madhya Pradesh,4168
+Satna,Mp:Madhya Pradesh,4145
+Moradabad,Up:Uttar Pradesh,4129
+Rewa ,Mp:Madhya Pradesh,4117
+Tripunithura,Kl:Kerala,4103
+Bharuch,Gj:Gujarat,4095
+Panipat,Hr:Haryana,4087
+Firozabad,Up:Uttar Pradesh,4072
+Nainital,Uk:Uttarakhand,4067
+ Godavari Eluru,Ap:Andhra Pradesh,4064
+Motihari,Br:Bihar,4056
+Shivpuri ,Mp:Madhya Pradesh,4018
+Nagercoil,Tn:Tamil Nadu,3978
+Perumbavoor,Kl:Kerala,3974
+Alipur,Wb:West Bengal,3870
+Kottayam,Kl:Kerala,3835
+Parassala,Kl:Kerala,3834
+Ranipet,Tn:Tamil Nadu,3815
+Devenahalli,Ka:Karnataka,3801
+Chengalpattu,Tn:Tamil Nadu,3789
+Patan,Gj:Gujarat,3786
+Samastipur,Br:Bihar,3770
+Didwana,Rj:Rajasthan,3718
+A Roorkee,Uk:Uttarakhand,3695
+Karunagappally,Kl:Kerala,3627
+Puducherry,Py:Pondicherry,3618
+Guruvayoor,Kl:Kerala,3598
+Nilambur,Kl:Kerala,3594
+Perinthalmanna,Kl:Kerala,3566
+Ponda,Ga:Goa,3527
+Chickmagalur,Ka:Karnataka,3522
+Buldhana,Mh:Maharashtra,3510
+Nadiad,Gj:Gujarat,3498
+Kundrathur,Tn:Tamil Nadu,3498
+Siliguri,Wb:West Bengal,3475
+Rajsamand,Rj:Rajasthan,3443
+Howrah,Wb:West Bengal,3435
+Honnavara,Ka:Karnataka,3408
+Durgapur,Wb:West Bengal,3404
+Pollachi,Tn:Tamil Nadu,3394
+Osmanabad,Mh:Maharashtra,3376
+Tiruchencode,Tn:Tamil Nadu,3358
+Asansole,Wb:West Bengal,3357
+Chikkodi,Ka:Karnataka,3349
+Tirunelveli,Tn:Tamil Nadu,3348
+Vadakkancherry,Kl:Kerala,3332
+Balodabazar,Cg:Chattisgarh,3298
+Panaji,Ga:Goa,3273
+Jangir Champa,Cg:Chattisgarh,3255
+Jaunpur,Up:Uttar Pradesh,3229
+Deoria,Up:Uttar Pradesh,3225
+Barasat,Wb:West Bengal,3204
+ Cuddapah,Ap:Andhra Pradesh,3187
+Bhojpur,Br:Bihar,3182
+Mattancherry,Kl:Kerala,3172
+Bardoli,Gj:Gujarat,3166
+Sitamarhi,Br:Bihar,3097
+Gadag,Ka:Karnataka,3097
+Azamgarh,Up:Uttar Pradesh,3096
+Chattarpur,Mp:Madhya Pradesh,3074
+Junagadh,Gj:Gujarat,3071
+Bharatpur,Rj:Rajasthan,3048
+Nadia,Wb:West Bengal,3042
+Kancheepuram,Tn:Tamil Nadu,3028
+Thalassery,Kl:Kerala,3010
+Bijnor,Up:Uttar Pradesh,2988
+Gurdaspur,Pb:Punjab,2987
+Sehore ,Mp:Madhya Pradesh,2962
+Cobichettipalayam,Tn:Tamil Nadu,2942
+Hazaribag,Jh:Jharkhand,2937
+Kumbakonam,Tn:Tamil Nadu,2915
+Katni,Mp:Madhya Pradesh,2912
+Karnal,Hr:Haryana,2908
+Vaishali,Br:Bihar,2903
+Attingal,Kl:Kerala,2896
+Karur,Tn:Tamil Nadu,2880
+Chalakkudy,Kl:Kerala,2874
+Ponnani,Kl:Kerala,2860
+Srirangam,Tn:Tamil Nadu,2820
+Mau,Up:Uttar Pradesh,2820
+Pattambi,Kl:Kerala,2801
+Churu,Rj:Rajasthan,2799
+Mettupalayam,Tn:Tamil Nadu,2797
+Betul ,Mp:Madhya Pradesh,2787
+Rohtak,Hr:Haryana,2785
+Mirzapur,Up:Uttar Pradesh,2784
+Pudukottai,Tn:Tamil Nadu,2780
+Puttur,Ka:Karnataka,2778
+Patiala,Pb:Punjab,2777
+Kasaragod,Kl:Kerala,2733
+Public Vehicles Department,Wb:West Bengal,2721
+Rohtas,Br:Bihar,2712
+Surendrangar,Gj:Gujarat,2689
+Udhamsingh Nagar,Uk:Uttarakhand,2682
+Seoni,Mp:Madhya Pradesh,2681
+Baran,Rj:Rajasthan,2678
+Bagalkot,Ka:Karnataka,2659
+Muvattupuzha,Kl:Kerala,2649
+Damoh ,Mp:Madhya Pradesh,2639
+Dhamtari,Cg:Chattisgarh,2614
+Medinipur,Wb:West Bengal,2611
+Ghazipur,Up:Uttar Pradesh,2599
+Raisen ,Mp:Madhya Pradesh,2578
+Pratapgarh,Up:Uttar Pradesh,2577
+Chomu,Rj:Rajasthan,2541
+Bhiwadi,Rj:Rajasthan,2525
+Beawar,Rj:Rajasthan,2520
+Jamakhandi,Ka:Karnataka,2518
+Ambejogai,Mh:Maharashtra,2510
+Kasba Unit,Wb:West Bengal,2505
+Kayamkulam,Kl:Kerala,2501
+Koppal,Ka:Karnataka,2500
+Vashim,Mh:Maharashtra,2488
+Sirsi,Ka:Karnataka,2484
+Hospet,Ka:Karnataka,2476
+Thaliparamba,Kl:Kerala,2471
+Dhar,Mp:Madhya Pradesh,2467
+Alathur,Kl:Kerala,2462
+Barmer,Rj:Rajasthan,2456
+Sabarkantha,Gj:Gujarat,2456
+Balaghat ,Mp:Madhya Pradesh,2447
+Contai,Wb:West Bengal,2430
+Tenkasi,Tn:Tamil Nadu,2428
+Koyilandy,Kl:Kerala,2415
+Nandurbar,Mh:Maharashtra,2402
+Dhanbad,Jh:Jharkhand,2391
+Haveri,Ka:Karnataka,2374
+Barrackpore,Wb:West Bengal,2369
+Faizabad,Up:Uttar Pradesh,2361
+Murshidabad,Wb:West Bengal,2356
+Jagadhari,Hr:Haryana,2347
+Sagar,Ka:Karnataka,2345
+Padrauna,Up:Uttar Pradesh,2341
+Chamaraj Nagar,Ka:Karnataka,2324
+Bettiah,Br:Bihar,2290
+Dausa,Rj:Rajasthan,2290
+Godhra,Gj:Gujarat,2249
+Morena ,Mp:Madhya Pradesh,2238
+Tiruvarur,Tn:Tamil Nadu,2219
+ Prakasam,Ap:Andhra Pradesh,2208
+Hapur,Up:Uttar Pradesh,2203
+Chittur,Kl:Kerala,2197
+Hathrash,Up:Uttar Pradesh,2192
+Ottappalam,Kl:Kerala,2176
+Barabanki,Up:Uttar Pradesh,2173
+Kashmir,Jk:Jammund Kashmir,2169
+Bathinda,Pb:Punjab,2166
+Villupuram,Tn:Tamil Nadu,2156
+Bundi,Rj:Rajasthan,2146
+Jhalawar,Rj:Rajasthan,2142
+Tamluk,Wb:West Bengal,2134
+Rewari,Hr:Haryana,2110
+Faridabad,Hr:Haryana,2108
+Hooghly,Wb:West Bengal,2107
+Purnea,Br:Bihar,2097
+Pernem,Ga:Goa,2097
+Vaikkom,Kl:Kerala,2084
+Shahdol ,Mp:Madhya Pradesh,2079
+Etawah,Up:Uttar Pradesh,2073
+Kodungallur,Kl:Kerala,2066
+Virudhunagar,Tn:Tamil Nadu,2050
+A Baruipur,Wb:West Bengal,2050
+Behala Unit,Wb:West Bengal,2034
+Mainpuri,Up:Uttar Pradesh,2017
+Vadakara,Kl:Kerala,2004
+Saraikela Kharsawan,Jh:Jharkhand,1995
+Hanumangarh,Rj:Rajasthan,1993
+Angamali,Kl:Kerala,1981
+Neemuch ,Mp:Madhya Pradesh,1948
+Siwan,Br:Bihar,1941
+Thiruvallur,Tn:Tamil Nadu,1915
+Quepem,Ga:Goa,1885
+Raebareli,Up:Uttar Pradesh,1861
+Jagdalpur,Cg:Chattisgarh,1853
+ Morbi,Gj:Gujarat,1830
+Begusarai,Br:Bihar,1818
+Ballia,Up:Uttar Pradesh,1815
+Kottakkara,Kl:Kerala,1806
+Basti,Up:Uttar Pradesh,1793
+Kabirdham,Cg:Chattisgarh,1788
+Changanacherry,Kl:Kerala,1773
+Sangrur,Pb:Punjab,1760
+Kanhangad,Kl:Kerala,1759
+Harda ,Mp:Madhya Pradesh,1750
+Kishangarh,Rj:Rajasthan,1746
+Salt Lake Unit,Wb:West Bengal,1742
+Khargone,Mp:Madhya Pradesh,1735
+Chandauli,Up:Uttar Pradesh,1731
+Rajgarh ,Mp:Madhya Pradesh,1705
+Ballabgarh,Hr:Haryana,1700
+Mannarkkad,Kl:Kerala,1698
+Vasco,Ga:Goa,1689
+Mavelikkara,Kl:Kerala,1672
+Gokak,Ka:Karnataka,1649
+Mahrajganj,Up:Uttar Pradesh,1642
+Nalanda,Br:Bihar,1629
+Bidar,Ka:Karnataka,1628
+Darbhanga,Br:Bihar,1626
+Burdwan,Wb:West Bengal,1612
+Dungarpur,Rj:Rajasthan,1604
+Shamli,Up:Uttar Pradesh,1575
+Silchar,As:Assam,1574
+Aizawl,Mz:Mizoram,1558
+Mandla ,Mp:Madhya Pradesh,1532
+Deoghar,Jh:Jharkhand,1520
+Gonda,Up:Uttar Pradesh,1508
+Taran Taran,Pb:Punjab,1508
+Tikamgarh ,Mp:Madhya Pradesh,1493
+Hisar,Hr:Haryana,1493
+Dehradun,Uk:Uttarakhand,1487
+Sirohi,Rj:Rajasthan,1464
+Sonipat,Hr:Haryana,1460
+Palwal,Hr:Haryana,1454
+Bhind ,Mp:Madhya Pradesh,1454
+Shahjahanpur,Up:Uttar Pradesh,1452
+Khandwa,Mp:Madhya Pradesh,1431
+Unnao,Up:Uttar Pradesh,1425
+Yadagiri,Ka:Karnataka,1420
+Jalaun,Up:Uttar Pradesh,1411
+Lakhimpur Khiri,Up:Uttar Pradesh,1408
+Chapara,Br:Bihar,1400
+Banswara,Rj:Rajasthan,1396
+Sultanpur,Up:Uttar Pradesh,1387
+Sitapur,Up:Uttar Pradesh,1385
+Balotra,Rj:Rajasthan,1380
+ Devbhoomi Dwarka,Gj:Gujarat,1378
+Bhadohi,Up:Uttar Pradesh,1377
+Nagamangala,Ka:Karnataka,1368
+Batala,Pb:Punjab,1368
+Barnala,Pb:Punjab,1352
+Cudalore,Tn:Tamil Nadu,1348
+Adoor,Kl:Kerala,1313
+Cooch Behar,Wb:West Bengal,1306
+Kathua,Jk:Jammund Kashmir,1299
+Dahod,Gj:Gujarat,1294
+Bokaro,Jh:Jharkhand,1291
+A Khragpur,Wb:West Bengal,1286
+Bahraich,Up:Uttar Pradesh,1283
+Kaithal,Hr:Haryana,1275
+Surajpur,Cg:Chattisgarh,1267
+Hoshiarpur,Pb:Punjab,1255
+Jyotibaphule Nagar,Up:Uttar Pradesh,1237
+Katihar,Br:Bihar,1230
+Bhagalpur,Br:Bihar,1213
+Badaun,Up:Uttar Pradesh,1211
+Abohar,Pb:Punjab,1201
+Mansa,Pb:Punjab,1190
+Kunnathur,Kl:Kerala,1185
+Giridih,Jh:Jharkhand,1185
+Karaikal,Py:Pondicherry,1180
+Mahasamund,Cg:Chattisgarh,1177
+Ramanathapuram,Tn:Tamil Nadu,1156
+A Diamond Harbour,Wb:West Bengal,1148
+Cormondal,Ka:Karnataka,1147
+Swaimadhopur,Rj:Rajasthan,1144
+Jalore,Rj:Rajasthan,1142
+Etah,Up:Uttar Pradesh,1131
+Kothamangalam,Kl:Kerala,1110
+Sonbhadra,Up:Uttar Pradesh,1104
+Perambalur,Tn:Tamil Nadu,1103
+Bhiwani,Hr:Haryana,1089
+Shajapur ,Mp:Madhya Pradesh,1082
+Bahadurgarh,Hr:Haryana,1082
+Aurangabad,Br:Bihar,1073
+Pratapgarh,Rj:Rajasthan,1068
+Porbandar,Gj:Gujarat,1068
+Birbhum,Wb:West Bengal,1064
+Badwani ,Mp:Madhya Pradesh,1063
+Bemetara,Cg:Chattisgarh,1047
+Amreli,Gj:Gujarat,1037
+Pathankot,Pb:Punjab,1033
+Kotputali,Rj:Rajasthan,1032
+Ferozepur,Pb:Punjab,1029
+Kapurthala,Pb:Punjab,1028
+Ambedkar Nagar,Up:Uttar Pradesh,1027
+Madhubani,Br:Bihar,1017
+Sasnagar,Pb:Punjab,1007
+Dholpur,Rj:Rajasthan,1000
+Pala,Kl:Kerala,996
+Palamu,Jh:Jharkhand,992
+Fatehpur,Up:Uttar Pradesh,981
+Balod,Cg:Chattisgarh,975
+Gadchiroli,Mh:Maharashtra,974
+D T O Ramgarh,Jh:Jharkhand,967
+Ambala,Hr:Haryana,962
+Sulthanbathery,Kl:Kerala,952
+Jhajjar,Hr:Haryana,950
+Bankura,Wb:West Bengal,949
+Baghpat,Up:Uttar Pradesh,947
+Bhinmal,Rj:Rajasthan,943
+Thodupuzha,Kl:Kerala,937
+A Uluberia,Wb:West Bengal,930
+Siddharthnagar,Up:Uttar Pradesh,929
+Dudu,Rj:Rajasthan,915
+Amethi,Up:Uttar Pradesh,905
+Wayanad,Kl:Kerala,905
+Karwar,Ka:Karnataka,889
+Sambhal,Up:Uttar Pradesh,882
+Nagaon,As:Assam,878
+Punalur,Kl:Kerala,876
+Madeikeri,Ka:Karnataka,870
+Chengannur,Kl:Kerala,869
+Gopalganj,Br:Bihar,862
+Lalitpur,Up:Uttar Pradesh,855
+Farrukhabad,Up:Uttar Pradesh,853
+Pataudi,Hr:Haryana,850
+Pathanamthitta,Kl:Kerala,845
+A Basirhat,Wb:West Bengal,844
+rvalli,Gj:Gujarat,839
+Rampur,Up:Uttar Pradesh,835
+Jashpur,Cg:Chattisgarh,822
+Kurukshetra,Hr:Haryana,821
+Fazilka,Pb:Punjab,818
+Vyara,Gj:Gujarat,817
+Sujangarh,Rj:Rajasthan,815
+Dibrugarh,As:Assam,812
+Thiruvalla,Kl:Kerala,812
+Jaisalmer,Rj:Rajasthan,811
+Kanker,Cg:Chattisgarh,810
+Agala,Tr:Tripura,800
+Hardoi,Up:Uttar Pradesh,798
+Baikunthpur,Cg:Chattisgarh,797
+Koderma,Jh:Jharkhand,784
+Sidhi ,Mp:Madhya Pradesh,783
+Malda,Wb:West Bengal,776
+Jhabua ,Mp:Madhya Pradesh,755
+Sheopur ,Mp:Madhya Pradesh,753
+Kannauj,Up:Uttar Pradesh,751
+Panchkula,Hr:Haryana,748
+Hunsur,Ka:Karnataka,745
+Kuttanadu,Kl:Kerala,743
+Purulia,Wb:West Bengal,733
+Kaushambi,Up:Uttar Pradesh,729
+A Serampore,Wb:West Bengal,717
+Narnaul,Hr:Haryana,707
+Falodi,Rj:Rajasthan,706
+Malerkotla,Pb:Punjab,698
+Kanjirappally,Kl:Kerala,697
+Derabassi,Pb:Punjab,696
+Mungeli,Cg:Chattisgarh,682
+Canacona,Ga:Goa,669
+Uzhavoor,Kl:Kerala,662
+Jalpaiguri,Wb:West Bengal,657
+Indiri,Hr:Haryana,649
+A Samba,Jk:Jammund Kashmir,648
+Buxur,Br:Bihar,641
+Gohana,Hr:Haryana,633
+Una,Hp:Himachal Pradesh,630
+Sant Kabir Nagar,Up:Uttar Pradesh,625
+Kekri,Rj:Rajasthan,614
+Auraiya,Up:Uttar Pradesh,614
+Nokha,Rj:Rajasthan,609
+Jaumui,Br:Bihar,603
+Dumka,Jh:Jharkhand,597
+Rajpura,Pb:Punjab,596
+A Rampurhat,Wb:West Bengal,589
+Basavakalyan,Ka:Karnataka,586
+Kanpur Dehat,Up:Uttar Pradesh,577
+A Jhargram,Wb:West Bengal,569
+Imphal,Mn:Manipur,566
+Jind,Hr:Haryana,562
+Moga,Pb:Punjab,555
+Ararea,Br:Bihar,555
+Sirsa,Hr:Haryana,552
+Raigunj,Wb:West Bengal,549
+Mananthavady,Kl:Kerala,543
+A Kalyani,Wb:West Bengal,543
+Pilibhit,Up:Uttar Pradesh,537
+Charkhi Dadri,Hr:Haryana,531
+Mahoba,Up:Uttar Pradesh,527
+Kharar,Pb:Punjab,517
+Nawadah,Br:Bihar,517
+Jorhat,As:Assam,514
+Balughat,Wb:West Bengal,505
+Datia ,Mp:Madhya Pradesh,486
+Shillong,Ml:Meghalaya,483
+Jehanabad,Br:Bihar,483
+Bilaspur,Hr:Haryana,480
+Lakhimpur,As:Assam,473
+ Botad,Gj:Gujarat,467
+Nohar,Rj:Rajasthan,463
+Bhabhua,Br:Bihar,463
+Kanshiram Nagar,Up:Uttar Pradesh,460
+Khanna,Pb:Punjab,457
+Bhalki,Ka:Karnataka,457
+A Bolpur,Wb:West Bengal,456
+Bailahongala,Ka:Karnataka,454
+Jalalabad,Pb:Punjab,448
+Samalkha,Hr:Haryana,447
+Faridkot,Pb:Punjab,446
+Fetehabad,Hr:Haryana,440
+Supaul,Br:Bihar,436
+Amloh,Pb:Punjab,435
+Jamtara,Jh:Jharkhand,426
+Karoli,Rj:Rajasthan,416
+Ramganjmandi,Rj:Rajasthan,414
+Banda,Up:Uttar Pradesh,406
+Alipurduar,Wb:West Bengal,402
+Sonitpur,As:Assam,402
+Mallappally,Kl:Kerala,401
+Fatehgarh Sahib,Pb:Punjab,396
+Dharbandora,Ga:Goa,395
+Ranni,Kl:Kerala,395
+A Dandeli,Ka:Karnataka,395
+A Raghunathpur,Wb:West Bengal,385
+Munger,Br:Bihar,380
+Ropar,Pb:Punjab,376
+Balrampur,Up:Uttar Pradesh,374
+Sheohar,Br:Bihar,374
+Muktsar,Pb:Punjab,369
+Udumbanchola,Kl:Kerala,367
+Sivsagar,As:Assam,355
+Mohindergarh,Hr:Haryana,354
+Panna ,Mp:Madhya Pradesh,353
+Madhepura,Br:Bihar,348
+Bawal,Hr:Haryana,348
+Budhlada,Pb:Punjab,347
+Palampur,Hp:Himachal Pradesh,344
+Naraingarh,Hr:Haryana,343
+Hamirpur,Up:Uttar Pradesh,342
+Barpeta,As:Assam,340
+Narmada,Gj:Gujarat,337
+Hansi,Hr:Haryana,335
+Hodel,Hr:Haryana,330
+Phagwara,Pb:Punjab,330
+Darrang,As:Assam,330
+Ajnala,Pb:Punjab,330
+Banka,Br:Bihar,328
+Shahabad,Hr:Haryana,326
+Assandh,Hr:Haryana,325
+ Chhotaudaipur,Gj:Gujarat,324
+Udhampur,Jk:Jammund Kashmir,323
+Abu Road,Rj:Rajasthan,323
+ Mahisagar,Gj:Gujarat,320
+Nalagarh,Hp:Himachal Pradesh,319
+Idukki,Kl:Kerala,318
+Beri,Hr:Haryana,314
+A Jangipur,Wb:West Bengal,314
+Kondagaon,Cg:Chattisgarh,313
+A Kalna,Wb:West Bengal,303
+Sakaleshpura,Ka:Karnataka,301
+Kishanganj,Br:Bihar,291
+Shravasti,Up:Uttar Pradesh,290
+Samana,Pb:Punjab,275
+Narwana,Hr:Haryana,275
+A Bongaon,Wb:West Bengal,270
+A Bishnupur,Wb:West Bengal,270
+Khagaria,Br:Bihar,263
+Ooty,Tn:Tamil Nadu,261
+Pehowa,Hr:Haryana,258
+Tinsukia,As:Assam,257
+Kharkhonda,Hr:Haryana,254
+Chitrakoot Dham,Up:Uttar Pradesh,254
+Safidon,Hr:Haryana,249
+Balrampur,Cg:Chattisgarh,249
+Vandiperiyar,Kl:Kerala,245
+Devikulam,Kl:Kerala,245
+Malout,Pb:Punjab,243
+Daman,Dd:Damannd Diu,240
+Mandi Sadar,Hp:Himachal Pradesh,235
+Barara,Hr:Haryana,231
+Ganaur,Hr:Haryana,231
+Jagraon,Pb:Punjab,231
+Pauri,Uk:Uttarakhand,224
+Golaghat,As:Assam,222
+Umaria ,Mp:Madhya Pradesh,221
+Meham,Hr:Haryana,221
+Kosli,Hr:Haryana,214
+Kalka,Hr:Haryana,207
+Nabha,Pb:Punjab,206
+Nawanshahar,Pb:Punjab,205
+Kangra,Hp:Himachal Pradesh,204
+Chaibasa,Jh:Jharkhand,199
+Tripura Dharmanagar,Tr:Tripura,195
+Bongaigaon,As:Assam,195
+Dhuri,Pb:Punjab,191
+Barwala,Hr:Haryana,189
+Karimganj,As:Assam,187
+Samrala,Pb:Punjab,184
+Rajouri,Jk:Jammund Kashmir,183
+Rla Haroli,Hp:Himachal Pradesh,182
+Guhla,Hr:Haryana,181
+Ellenabad,Hr:Haryana,180
+Lohardaga,Jh:Jharkhand,175
+Dantewada,Cg:Chattisgarh,174
+Arawal,Br:Bihar,172
+Kalayat,Hr:Haryana,172
+Gumla,Jh:Jharkhand,167
+Nuh,Hr:Haryana,167
+Kanina,Hr:Haryana,165
+Lakhisarai,Br:Bihar,165
+Godda,Jh:Jharkhand,164
+Hathin,Hr:Haryana,164
+Gariyaband,Cg:Chattisgarh,164
+Baramulla,Jk:Jammund Kashmir,160
+Sheikhpura,Br:Bihar,160
+Unit Office Mahe,Py:Pondicherry,160
+Rohru,Hp:Himachal Pradesh,160
+Hamirpur,Hp:Himachal Pradesh,153
+Chatra,Jh:Jharkhand,152
+Garhwa,Jh:Jharkhand,147
+Amb,Hp:Himachal Pradesh,147
+A Reasi,Jk:Jammund Kashmir,143
+Udalguri,As:Assam,140
+Budgam,Jk:Jammund Kashmir,139
+A Chanchal,Wb:West Bengal,135
+Simdega,Jh:Jharkhand,133
+Saharsa,Br:Bihar,132
+Rla Mandi,Hp:Himachal Pradesh,132
+Nangal,Pb:Punjab,131
+Tohana,Hr:Haryana,130
+D T O Khunti,Jh:Jharkhand,127
+Sundernagar,Hp:Himachal Pradesh,127
+Tosham,Hr:Haryana,125
+Dharamsala,Hp:Himachal Pradesh,124
+Phillaur,Pb:Punjab,123
+Sahebganj,Jh:Jharkhand,123
+A Islampur,Wb:West Bengal,120
+A Mathabhanga,Wb:West Bengal,114
+Chirang,As:Assam,114
+Diu,Dd:Damannd Diu,113
+Baksa,As:Assam,112
+Unit Office Yanam,Py:Pondicherry,111
+Loharu,Hr:Haryana,107
+Anandpur Sahib,Pb:Punjab,106
+Naduan,Hp:Himachal Pradesh,105
+Bishramganj,Tr:Tripura,105
+Patran,Pb:Punjab,104
+Hailakandi,As:Assam,103
+Nalbari,As:Assam,102
+Dhubri,As:Assam,100
+Sunam,Pb:Punjab,100
+Payal,Pb:Punjab,97
+Tripura,Tr:Tripura,94
+Unakoti Kailashahar,Tr:Tripura,94
+Sultanpur Lodhi,Pb:Punjab,92
+Kokrajhar,As:Assam,91
+Nurpur,Hp:Himachal Pradesh,89
+Baijnath,Hp:Himachal Pradesh,84
+Dehra,Hp:Himachal Pradesh,83
+Morigaon,As:Assam,82
+Dindori ,Mp:Madhya Pradesh,80
+Mukerian,Pb:Punjab,75
+Ponta Sahib,Hp:Himachal Pradesh,75
+Port Blair,An:Andamannd Nicobar,74
+Bangana,Hp:Himachal Pradesh,72
+Latehar,Jh:Jharkhand,71
+Kullu,Hp:Himachal Pradesh,70
+Haryana,Hr:Haryana,68
+Anantnag,Jk:Jammund Kashmir,68
+Pulwama,Jk:Jammund Kashmir,68
+Karbinglog,As:Assam,68
+Ratia,Hr:Haryana,66
+Gidderbaha,Pb:Punjab,66
+Patti,Pb:Punjab,66
+Khamao,Pb:Punjab,64
+Balachaur,Pb:Punjab,64
+Dhalai,Tr:Tripura,62
+A Ganderbal,Jk:Jammund Kashmir,62
+Pakur,Jh:Jharkhand,61
+Goalpara,As:Assam,60
+Raikot,Pb:Punjab,59
+Bassi,Pb:Punjab,59
+Zira,Pb:Punjab,59
+Rampura Phul,Pb:Punjab,58
+Sardulgarh,Pb:Punjab,58
+Baghapurana,Pb:Punjab,57
+Ferozepur Zirkha,Hr:Haryana,56
+Dabwali,Hr:Haryana,56
+Ghumarwin,Hp:Himachal Pradesh,56
+Thoubal,Mn:Manipur,54
+Doda,Jk:Jammund Kashmir,54
+Jogindernagar,Hp:Himachal Pradesh,52
+Barsar,Hp:Himachal Pradesh,51
+Bhoranj,Hp:Himachal Pradesh,50
+Siwani,Hr:Haryana,50
+Shimla,Hp:Himachal Pradesh,50
+Bilaspur Sadar,Hp:Himachal Pradesh,46
+Poonch,Jk:Jammund Kashmir,44
+Shahkot,Pb:Punjab,42
+Nahan,Hp:Himachal Pradesh,42
+Pithoragarh,Uk:Uttarakhand,41
+Solan,Hp:Himachal Pradesh,41
+Aahwa,Gj:Gujarat,41
+Champawat,Uk:Uttarakhand,40
+Sarkaghat,Hp:Himachal Pradesh,40
+Rla Jawalamukhi,Hp:Himachal Pradesh,40
+Chamkaur Sahib,Pb:Punjab,40
+Garhshankar,Pb:Punjab,38
+Nihal Singh Wala,Pb:Punjab,37
+Dhemaji,As:Assam,36
+Jawali,Hp:Himachal Pradesh,36
+Tapa,Pb:Punjab,35
+Jaitu,Pb:Punjab,34
+A Bandipora,Jk:Jammund Kashmir,33
+Itanagar,Ar:Arunachal Pradesh,33
+Dasuya,Pb:Punjab,33
+Sukma,Cg:Chattisgarh,30
+Talwandi Sabo,Pb:Punjab,29
+Bishnupur,Mn:Manipur,28
+Dimapur,Nl:Nagaland,28
+A Kishtwar,Jk:Jammund Kashmir,26
+Dera Baba Nanak,Pb:Punjab,26
+Lunglei,Mz:Mizoram,26
+Chamba,Hp:Himachal Pradesh,23
+Moonak,Pb:Punjab,22
+A Ramban,Jk:Jammund Kashmir,21
+Parwanoo,Hp:Himachal Pradesh,21
+Nakodar,Pb:Punjab,21
+Jaisinghpur,Hp:Himachal Pradesh,21
+Gohar,Hp:Himachal Pradesh,21
+Kupwara,Jk:Jammund Kashmir,20
+Tehri,Uk:Uttarakhand,20
+Baba Bakala,Pb:Punjab,18
+Bageshwar,Uk:Uttarakhand,18
+Tura,Ml:Meghalaya,17
+Mandi,Hp:Himachal Pradesh,17
+Teliamura,Tr:Tripura,17
+Kolasib,Mz:Mizoram,15
+Rla Sujanpur,Hp:Himachal Pradesh,14
+Paddhar,Hp:Himachal Pradesh,14
+A Shopian,Jk:Jammund Kashmir,14
+Khadoor Sahib,Pb:Punjab,13
+Almora,Uk:Uttarakhand,13
+A Kulgam,Jk:Jammund Kashmir,13
+Karsog,Hp:Himachal Pradesh,12
+Chowari,Hp:Himachal Pradesh,12
+Champhai,Mz:Mizoram,11
+Rla Dharampur,Hp:Himachal Pradesh,11
+Nongpoh,Ml:Meghalaya,11
+Bholath,Pb:Punjab,10
+mpati,Ml:Meghalaya,9
+Manali,Hp:Himachal Pradesh,8
+Kandaghat,Hp:Himachal Pradesh,7
+Serchhip,Mz:Mizoram,6
+ Resubelpara,Ml:Meghalaya,6
+Arki,Hp:Himachal Pradesh,6
+Kavaratti,Ld:Lakshadweep,6
+Dalhousie,Hp:Himachal Pradesh,4
+Pasighat,Ar:Arunachal Pradesh,4
+Kalpa,Hp:Himachal Pradesh,4
+Dhar Kalan,Pb:Punjab,3
+Chamoli,Uk:Uttarakhand,3
+Uttarkashi,Uk:Uttarakhand,3
+Tezu,Ar:Arunachal Pradesh,3
+Roing,Ar:Arunachal Pradesh,3
+Anni,Hp:Himachal Pradesh,3
+Jowai,Ml:Meghalaya,3
+Rajgarh,Hp:Himachal Pradesh,3
+Kohima,Nl:Nagaland,3
+Theog,Hp:Himachal Pradesh,3
+Chaupal,Hp:Himachal Pradesh,2
+Rudraprayag,Uk:Uttarakhand,2
+Nongstoin,Ml:Meghalaya,2
+Mamit,Mz:Mizoram,2
+Banjar,Hp:Himachal Pradesh,2
+Sikkim,Sk:Sikkim,2
+Daporijo,Ar:Arunachal Pradesh,2
+Lawngtlai,Mz:Mizoram,2
+Churah,Hp:Himachal Pradesh,2
+Ziro,Ar:Arunachal Pradesh,1
+Saiha,Mz:Mizoram,1
+Keylong,Hp:Himachal Pradesh,1
+Along,Ar:Arunachal Pradesh,1
+Dodra Kawar,Hp:Himachal Pradesh,1
+Rla Shillai,Hp:Himachal Pradesh,1
+Rampur,Hp:Himachal Pradesh,1
+Nichar,Hp:Himachal Pradesh,1
+ Khliehriat,Ml:Meghalaya,1
