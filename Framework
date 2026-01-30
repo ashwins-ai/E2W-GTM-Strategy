@@ -1,0 +1,41 @@
+E2W-GTM-Strategy/
+│
+├── README.md
+├── LICENSE.md
+│
+├── 01_problem_statement/
+│   └── case_context.md
+│
+├── 02_market_structure/
+│   ├── tier2_city_logic.md
+│   ├── premium_demand_framework.md
+│   └── cluster_definition.md
+│
+├── 03_data_pipeline/
+│   ├── vahan_data_cleaning.py
+│   ├── city_aggregation.py
+│   ├── top_city_selection.py
+│   └── notes_on_dirty_data.md
+│
+├── 04_strategy_framework/
+│   ├── customer_segmentation.md
+│   ├── mother_hub_model.md
+│   ├── tier3_expansion_logic.md
+│   └── phased_entry_model.md
+│
+├── 05_execution_plan/
+│   ├── phase_1A.md
+│   ├── phase_1B.md
+│   ├── phase_2.md
+│   ├── phase_3.md
+│   └── phase_4.md
+│
+├── 06_visuals/
+│   ├── architecture_diagrams/
+│   ├── market_flow_charts/
+│   └── example_outputs.png
+│
+└── 07_appendix/
+    ├── assumptions.md
+    ├── risks_and_mitigations.md
+    └── references.md
