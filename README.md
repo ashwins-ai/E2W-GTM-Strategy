@@ -196,4 +196,5 @@ Geographic expansion is triggered only after operational readiness thresholds ar
 ---
 
 ## Repository Structure
+<img width="3804" height="4396" alt="diagram" src="https://github.com/user-attachments/assets/3f56b1e6-e3ae-472f-b5fb-0a1aece778dd" />
 
